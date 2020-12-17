@@ -97,10 +97,10 @@ i[bubble][status='offline']{
   background-position:1px 1px;
 }
 
-.nav_notes i{ background:url(./img/tsx_notes.png); }
-.nav_bug i{ background:url(./img/tsx_bug.png); }
-.nav_options i{ background:url(./img/tsx_options.png); }
-.nav_check_updates i{ background:url(./img/tsx_update.png); }
+.nav_notes i{ background:url(https://treasure-run-game.github.io/launcher-data/img/icons/tsx_notes.png); }
+.nav_bug i{ background:url(https://treasure-run-game.github.io/launcher-data/img/icons/tsx_bug.png); }
+.nav_options i{ background:url(https://treasure-run-game.github.io/launcher-data/img/icons/tsx_options.png); }
+.nav_check_updates i{ background:url(https://treasure-run-game.github.io/launcher-data/img/icons/tsx_update.png); }
 
 .logo{
   width:269px;height:120px;

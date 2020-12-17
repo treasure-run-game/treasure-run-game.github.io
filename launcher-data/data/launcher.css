@@ -329,5 +329,5 @@ progress.red::-webkit-progress-value{
     ,rgba(255,255,255,0) 100%);
 }
 .latest_version{
-  width: 100%;
+  width: 100px;
 }

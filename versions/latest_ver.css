@@ -1,0 +1,43 @@
+/* Page Styling */
+    h1, h2, h3, h4, h5, h6 {
+    color: #000;
+    padding: 0;
+    margin: 0 0 20px 0;
+    line-height: 1.3em;
+    clear: both;
+    }
+    h1 {
+    background: #436182;
+    margin-bottom: 30px;
+    padding: 10px;
+    color: white;
+    font-size: 32px;
+    }
+    h2 {
+    font-size: 28px;
+    color: white;
+    }
+    h3 {
+    margin-top: 30px;
+    font-size: 20px;
+    color: #D44354;
+    }
+    h4 {
+    font-size: 16px;
+    color: #3793e6;
+    }
+    h5 {
+    font-size: 14px;
+    }
+    h6 {
+    font-size: 12px;
+    }
+    p {
+    line-height: 1.7em;
+    margin: 0 0 20px 0;
+    }
+    strong {
+    padding: 0 4px;
+    background: #eee;
+    font-weight: normal;
+    }

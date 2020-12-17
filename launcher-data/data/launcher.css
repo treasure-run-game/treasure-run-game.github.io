@@ -328,6 +328,6 @@ progress.red::-webkit-progress-value{
     ,rgba(255,255,255,0.16) 70%
     ,rgba(255,255,255,0) 100%);
 }
-.latest_version{
+.latest_version_display{
   width: 962px;
 }

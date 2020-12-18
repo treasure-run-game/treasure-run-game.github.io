@@ -8,6 +8,7 @@ button,li,a,span,i{
 
 html,body{
   padding:0px;margin:0px;
+  overflow: hidden;
 }
 a:hover,button:hover,li:hover,.server:hover{
   opacity:0.76; cursor:pointer;

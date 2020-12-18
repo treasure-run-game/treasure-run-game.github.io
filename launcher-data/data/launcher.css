@@ -341,7 +341,7 @@ progress.red::-webkit-progress-value{
 }
 .check_for_updates span{
   font-family:'Typograph';
-  background: -webkit-linear-gradient(#e4efff, #555);
+  background: -webkit-linear-gradient(lightgreen, darkgreen);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }

@@ -17,6 +17,7 @@ a:hover,button:hover,li:hover,.server:hover{
   color:#fff;
   border:none;
   font-family:'Phag';
+  text-align: center;
 }
 button,li{
   padding:0px;margin:0px;

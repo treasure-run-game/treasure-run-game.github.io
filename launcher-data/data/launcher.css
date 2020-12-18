@@ -333,7 +333,7 @@ progress.red::-webkit-progress-value{
 }
 .check_for_updates{
   width:444px;height:45px; line-height:45px;
-  background:url(https://treasure-run-game.github.io/launcher-data/img/PlayBtnBackground.png) 0 0 no-repeat;
+  background:url(https://treasure-run-game.github.io/launcher-data/img/CheckForUpdatesBtnBackground.png) 0 0 no-repeat;
   text-shadow:2px 6px 8px rgba(0,0,0,0.5);
   font-size:20px;
   box-shadow:0px 0px 3px 6px rgba(0,0,0,0.6);

@@ -330,4 +330,5 @@ progress.red::-webkit-progress-value{
 }
 .latest_version_display{
   width:962px;height:26px;
+  overflow: hidden;
 }

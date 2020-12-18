@@ -331,3 +331,26 @@ progress.red::-webkit-progress-value{
 .latest_version_display{
   width:962px;height:30px;
 }
+.check_for_updates{
+  width:444px;height:45px; line-height:45px;
+  background:url(https://treasure-run-game.github.io/launcher-data/img/PlayBtnBackground.png) 0 0 no-repeat;
+  text-shadow:2px 6px 8px rgba(0,0,0,0.5);
+  font-size:20px;
+  box-shadow:0px 0px 3px 6px rgba(0,0,0,0.6);
+}
+.check_for_updates span{
+  font-family:'Typograph';
+  background: -webkit-linear-gradient(#e4efff, #555);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.check_for_updates[disabled] span{
+  background: -webkit-linear-gradient(#ccc, #555);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.check_for_updates[disabled]{
+  opacity:0.46;
+  cursor:default;
+  pointer-events:none;
+}

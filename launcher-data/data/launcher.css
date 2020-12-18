@@ -355,3 +355,6 @@ progress.red::-webkit-progress-value{
   cursor:default;
   pointer-events:none;
 }
+.update_info_text{
+  text-align: center;	
+}

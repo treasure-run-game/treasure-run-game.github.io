@@ -15,4 +15,9 @@ function getUrlParam(parameter, defaultvalue){
 
 var localVersion = getUrlVars()["ver"];
 
-document.write(localVersion);
+document.write(
+'{'
++'    "version": '
++ localVersion
++'}'
+);

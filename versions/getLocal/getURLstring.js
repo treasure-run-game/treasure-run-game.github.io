@@ -15,9 +15,6 @@ function getUrlParam(parameter, defaultvalue){
 
 var localVersion = getUrlVars()["ver"];
 
-document.write(
-'{'
-+'    "version": '
-+ localVersion
-+'}'
-);
+var redirectURL = "https://treasure-run-game.github.io/versions/releasedVersions/"+localVersion+".json";
+
+location.replace(redirectURL);

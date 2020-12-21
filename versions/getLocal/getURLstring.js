@@ -13,6 +13,6 @@ function getUrlParam(parameter, defaultvalue){
     return urlparameter;
 }
 
-var number = getUrlVars()["ver"];
+var localVersion = getUrlVars()["ver"];
 
-console.log(number)
+document.write(localVersion);
